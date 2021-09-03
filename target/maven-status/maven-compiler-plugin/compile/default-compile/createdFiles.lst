@@ -1,0 +1,5 @@
+Capa_Dao\Cliente_Dao.class
+Controlador\Controlador.class
+Capa_Modelo\Cliente.class
+Capa_Dao\ValidarAcceso.class
+Capa_Datos\Conexion.class
